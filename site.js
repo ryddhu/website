@@ -1,4 +1,4 @@
-/* Riddz.AI — progressive enhancement only. Every page is fully readable with
+/* Ryddhu AI — progressive enhancement only. Every page is fully readable with
    JavaScript disabled; this adds the sticky-nav border and scroll reveal. */
 
 (function () {
