@@ -1,0 +1,7 @@
+# GitHub Pages: never publish repository and AI-assistant files on ryddhu.com.
+exclude:
+  - CLAUDE.md
+  - AGENTS.md
+  - docs/
+  - .github/
+  - .gitattributes
